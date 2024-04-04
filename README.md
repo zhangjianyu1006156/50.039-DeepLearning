@@ -55,3 +55,5 @@ Replace `path_to_best_model.pt` with the actual path to your saved model file.
 4. Click the notebook
 5. Click the **Output**
 
+## Best model weight file
+Google Drive Link: https://drive.google.com/file/d/1fgh0FikO4hpj261qTr95D0yERRaXxySq/view?usp=sharing
