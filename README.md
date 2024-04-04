@@ -10,7 +10,8 @@ This repository contains a convolutional neural network (CNN) model designed for
 - Evaluation metrics including accuracy and loss.
 
 ## Dataset
-The model is trained on the "The IQ-OTHNCCD Lung Cancer Dataset" available on Kaggle. This dataset comprises images classified into multiple categories indicative of lung cancer presence and severity.
+The model is trained on the **The IQ-OTHNCCD Lung Cancer Dataset** available on Kaggle. This dataset comprises images classified into multiple categories indicative of lung cancer presence and severity.
+Dataset Link: https://www.kaggle.com/datasets/hamdallak/the-iqothnccd-lung-cancer-dataset
 
 ## Prerequisites
 - Kaggle Account
