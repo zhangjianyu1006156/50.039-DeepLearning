@@ -57,4 +57,4 @@ Replace `path_to_best_model.pt` with the actual path to your saved model file.
 5. Click the **Output**
 
 ## Best model weight file
-Google Drive Link: https://drive.google.com/file/d/1ytqKhTRBL9z5tgJ6xR-zb0uyQ4qHYxrE/view?usp=drive_link
+Google Drive Link: https://drive.google.com/drive/folders/1yURrWtdmuCF1ENOx7LIxJ-SlEdzMz36n?usp=sharing
