@@ -28,8 +28,15 @@ Dataset Link (Public):   [OneDrive Link](https://sutdapac-my.sharepoint.com/:f:/
 1.  **Clone this repository:** `git clone` the repository or download it as zip file and extract it. 
 2. **Install Dependencies:** `pip install -r requirements.txt` This will install all libraries and related dependencies needed for the project. Please install the pytorch version related to your cuda (GPU - this will help grant faster execution times).
 
-## Setup instructions
+## Directory structure
 
+ - **Assets:** This contains images mainly like accuracy over epochs, loss over epochs, confusion matrix etc.
+ - **ipynb:** This contains all the jupyter notebooks
+ - **models:** This contains all the custom-built models like MLP, CNN, CNN + LSTM, each with its own file.
+ - **report:** This contains a report document outlining the details of this entire project.
+ - **train:** The main function where you can call different models and train (+ validate, test and inference them).
+	 - weights: The weights subfolder should contain .pt filles so that one can quickly load these weights and conduct inferencing.
+	 - metrics: The metrics subfolder contains a .txt file containing the progression of training, validation and test, loss and accuracy numbers, over epochs. Additionally, it contains the classification report for further analysis.
 
 
 ## Running the Model
