@@ -1,0 +1,26 @@
+Training accuracies: [22.55541069100391, 10.951760104302478, 10.951760104302478, 10.951760104302478, 10.951760104302478]
+Testing accuracies: [10.843373493975903, 10.843373493975903, 10.843373493975903, 10.843373493975903]
+Validation accuracies: [10.975609756097562, 10.975609756097562, 10.975609756097562, 10.975609756097562, 10.975609756097562]
+Training loses: [nan, nan, nan, nan, nan]
+Validation loses: [nan, nan, nan, nan, nan]
+Testing loses: [nan, nan, nan, nan]
+
+
+
+
+
+
+
+
+
+
+              precision    recall  f1-score   support
+
+           0       0.11      1.00      0.20        18
+           1       0.00      0.00      0.00        85
+           2       0.00      0.00      0.00        63
+
+    accuracy                           0.11       166
+   macro avg       0.04      0.33      0.07       166
+weighted avg       0.01      0.11      0.02       166
+
